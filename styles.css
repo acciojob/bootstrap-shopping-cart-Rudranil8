@@ -1,1 +1,8 @@
-/*  your css code here. If applicable */
+h2{
+	text-align:center;
+	color:#3b99e0;
+}
+summary{
+	Border-top: #5ea4f3;
+	background-color:#f7fbff;
+}
